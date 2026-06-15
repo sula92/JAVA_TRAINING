@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Conditional_Statements_Demo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Date_Time_Period_Demo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Dependency_Injection_Demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DI_Factory_Adapter_Demo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Encapsulation_Demo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Enum_Demo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exceptions_Errors_Exception_&amp;_Error_Handling_Demo/src" isTestSource="false" />
