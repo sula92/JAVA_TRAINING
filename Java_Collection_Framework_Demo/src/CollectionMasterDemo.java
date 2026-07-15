@@ -1,5 +1,3 @@
-package collectionsComplete;
-
 public class CollectionMasterDemo {
     public static void main(String[] args) {
         System.out.println("Java Collections Complete Demo");

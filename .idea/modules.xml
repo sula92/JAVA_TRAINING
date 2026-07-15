@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JAVA_TRAINING.iml" filepath="$PROJECT_DIR$/JAVA_TRAINING.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Threads_Demo/Threads_Demo.iml" filepath="$PROJECT_DIR$/Threads_Demo/Threads_Demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Regex_Demo/Regex_Demo.iml" filepath="$PROJECT_DIR$/Regex_Demo/Regex_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction_Demo/Abstraction_Demo.iml" filepath="$PROJECT_DIR$/Abstraction_Demo/Abstraction_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifiersDemo/AccessModifiersDemo.iml" filepath="$PROJECT_DIR$/AccessModifiersDemo/AccessModifiersDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Arrays_Demo/Java_Arrays_Demo.iml" filepath="$PROJECT_DIR$/Java_Arrays_Demo/Java_Arrays_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Collection_Framework_Demo/Java_Collection_Framework_Demo.iml" filepath="$PROJECT_DIR$/Java_Collection_Framework_Demo/Java_Collection_Framework_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda_And_MethodReferences_Demo/Lambda_And_MethodReferences_Demo.iml" filepath="$PROJECT_DIR$/Lambda_And_MethodReferences_Demo/Lambda_And_MethodReferences_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regex_Demo/Regex_Demo.iml" filepath="$PROJECT_DIR$/Regex_Demo/Regex_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads_Demo/Threads_Demo.iml" filepath="$PROJECT_DIR$/Threads_Demo/Threads_Demo.iml" />
     </modules>
   </component>
 </project>

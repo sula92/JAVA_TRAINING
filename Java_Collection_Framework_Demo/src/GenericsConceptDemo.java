@@ -1,5 +1,3 @@
-package collectionsComplete;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -11,6 +9,8 @@ public class GenericsConceptDemo {
         List<String> names = new ArrayList<>();
         names.add("Kamal");
         names.add("Nimal");
+
+        //names.add(10); // This will cause a compile-time error because names is a List<Integer>
 
         String firstName = names.get(0);
         System.out.println("Generic List<String> gives String directly: " + firstName);

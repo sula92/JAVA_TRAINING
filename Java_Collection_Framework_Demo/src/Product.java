@@ -1,5 +1,3 @@
-package collectionsComplete;
-
 public class Product {
     private final String code;
     private final String name;

@@ -40,6 +40,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Types_Of_Interfaces_Demo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/VarArgs_Demo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Anonymous_Classes_Functional_Interfaces_Lambda_Demo/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

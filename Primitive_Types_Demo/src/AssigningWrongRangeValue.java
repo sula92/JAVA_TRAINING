@@ -1,3 +1,4 @@
+/*
 public class AssigningWrongRangeValue {
 
     public static void main(String[] args) {
@@ -41,3 +42,4 @@ public class AssigningWrongRangeValue {
     }
     
 }
+*/

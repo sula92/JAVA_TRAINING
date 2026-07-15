@@ -1,10 +1,4 @@
-package collectionsComplete;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.ConcurrentModificationException;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 
 public class ImmutableAndFailFastDemo {
     public static void run() {
@@ -51,5 +45,9 @@ public class ImmutableAndFailFastDemo {
             }
         }
         System.out.println("Safe removal with Iterator: " + topics);
+    }
+
+    public static void main(String[] args) {
+        run();
     }
 }

@@ -1,5 +1,3 @@
-package collectionsComplete;
-
 public class DemoPrinter {
     private DemoPrinter() {
     }
